@@ -8,7 +8,7 @@ An interactive demo of a version of Artonomous running for 24 hours on September
 ## Description
 * Two hard coded generators; one active generator per turn; simple vote count determines the active generator (one transaction = one vote); any ethereum account can cast votes
 * Art pieces are ERC-721 tokens (struct: block number; active generator at block of minting)
-* When minted, the ERC-721 token is transferred to a random address of a set of addresses
+* When minted, the ERC-721 token is transferred to a random address of a set of addresses (paper wallets handed out to event attendees)
 * New art pieces are minted every 60 blocks 
 * Given the ID of an art piece, a client side art visualization code will:
   * query the Ethereum blockchain for the block number and generator of the corresponding ERC-721 token;
