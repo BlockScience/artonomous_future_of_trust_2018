@@ -1,6 +1,7 @@
 # Artonomous Future of Trust Demo
 This is a simplified version of Artonomous meant to be demoed at the [Future of Trust Summit 2018](https://futureoftrust.eu/).  
-[Front end](https://markusbkoch.github.io/fot2018/?autoRefresh=15)  
+[Front end - Gallery](https://markusbkoch.github.io/fot2018/?autoRefresh=15)  
+[Front end - Art Piece #5](https://markusbkoch.github.io/fot2018/?tokenId=5)  
 [Smart Contract](https://etherscan.io/address/0xfe9b5e8f7e8f6493f7d8532d915c9d53dffe9080)
 
 ## Goal
